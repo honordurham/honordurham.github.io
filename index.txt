@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Honor Bea Durham</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1> hdurham@mit.edu </h1>
+        <nav>
+            <a href="index.html">Home</a> |
+            <a href="about.html">About</a> |
+            <a href="portfolio.html">Portfolio</a> |
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="intro">
+            <h2>Welcome!</h2>
+            <p>Hi, my name is Honor Durham, and I'm currently working as a Research Support Associate at the MIT Election Data + Science Lab.</p>
+        </section>
+
+        <section class="featured-projects">
+            <h2>Featured Projects</h2>
+            <div class="project">
+                <img src="images/symposium.jpg" width = 200 >
+                <h3>Project Title</h3>
+                <p>Short description of your project.</p>
+            </div>
+            <div class="project">
+                <img src="images/example2.jpg" alt="Project Screenshot">
+                <h3>Another Project</h3>
+                <p>Short description of another project.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Honor Durham | <a href="https://github.com/honordurham" target="_blank">GitHub</a> | <a href="https://linkedin.com/in/honordurham" target="_blank">LinkedIn</a></p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
