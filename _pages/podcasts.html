@@ -10,9 +10,7 @@ author_profile: true
 Here are all of the podcast episodes that I worked on for 1050 Bascom and The Daily Cardinal.
 
 {% for post in site.podcasts %}
-  <article class="podcast-episode">
-    <h2><a href="{{ post.audio_url }}">{{ post.title }}</a></h2>
-    <p class="episode-date">{{ post.date | date: "%B %d, %Y" }}</p>
-    {% include archive-single.html %}
-  </article>
+  <h2><a href="{{ post.audio_url }}">{{ post.title }}</a></h2>
+  <p>{{ post.date | date: "%B %d, %Y" }}</p>
+  <p>{{ post.excerpt }}</p>
 {% endfor %}
