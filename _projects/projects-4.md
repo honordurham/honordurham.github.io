@@ -4,4 +4,4 @@ excerpt: "Assisting with data cleaning and quality assurance of precinct-level r
 collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Assisting with data cleaning and quality assurance of precinct-level returns from the [2024 election](https://github.com/MEDSL/2024-elections-official).
