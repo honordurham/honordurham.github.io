@@ -23,12 +23,12 @@ repository               : "honordurham.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "symposium.png"
   name             : "Honor Durham"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "Cambridge"
-  employer         : "Massachusetts Institute of Technology"
+  location         : "Cambridge, MA | Madison, WI"
+  employer         : "MIT"
   uri              : # URL
   email            : "hdurham@mit.edu" 
 
