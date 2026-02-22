@@ -224,7 +224,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  podcasts:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -264,7 +264,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # podcasts
   - scope:
       path: ""
       type: publications

@@ -4,4 +4,4 @@ excerpt: "Analyzing state-level ballot proposition contents and voter guides wit
 collection: projects
 ---
 
-Analyzing state-level ballot proposition contents and voter guides with [Zayne Sember](https://www.zaynesember.com/) and [Sina Shaikh](https://sinashaikh.github.io/)"
+Analyzing state-level ballot proposition contents and voter guides with [Zayne Sember](https://www.zaynesember.com/) and [Sina Shaikh](https://sinashaikh.github.io/)
