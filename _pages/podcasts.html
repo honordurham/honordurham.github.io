@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Podcasts"
+permalink: /podcasts/
+author_profile: true
+---
+
+{% include base_path %}
+
+Here are all of the podcast episodes that I worked on for 1050 Bascom and The Daily Cardinal.
+
+{% for post in site.podcasts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+
