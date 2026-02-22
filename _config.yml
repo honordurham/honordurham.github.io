@@ -267,7 +267,7 @@ defaults:
   # _podcasts
   - scope:
       path: ""
-      type: publications
+      type: podcasts
     values:
       layout: single
       author_profile: true
