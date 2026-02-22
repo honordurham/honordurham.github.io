@@ -11,8 +11,9 @@ main:
   - title: "Projects"
     url: /projects/
     
-  - title: "Podcasts"
-    url: /podcasts/
+  # For now!  
+  # - title: "Podcasts"
+  #   url: /podcasts/
     
   - title: "Resume"
     url: /files/Honor_Durham_Resume.pdf
