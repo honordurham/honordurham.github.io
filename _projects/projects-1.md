@@ -1,7 +1,7 @@
 ---
-title: "Female Local Election Candidates Project, MIT Election Data + Science Lab"
-excerpt: "Analyzing differences in vote share for female local election candidates across different offices and electoral settings."
+title: "Local Woman Candidates Project, MIT Election Data + Science Lab"
+excerpt: "Analyzing differences in vote share for woman candidates across different local offices and electoral settings."
 collection: projects
 ---
 
-Analyzing differences in vote share for female local election candidates across different offices and electoral settings.
+Analyzing differences in vote share for woman candidates across different local offices and electoral settings.
