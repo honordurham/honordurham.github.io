@@ -30,7 +30,7 @@ author:
   location         : "Cambridge, MA"
   employer         : "MIT"
   uri              : # URL
-  email            : "hdurham@mit.edu" 
+  email            : "mailto:hdurham@mit.edu" 
 
   # Academic websites
   academia         : # URL
